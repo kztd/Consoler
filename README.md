@@ -1,2 +1,5 @@
 # Consoler
-Java code that writes shapes to console
+Java code that writes shapes:
+  Square
+  Circle
+  
